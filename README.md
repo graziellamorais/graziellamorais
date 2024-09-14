@@ -1,5 +1,11 @@
 ### Hi, I'm Graziella 👋
 <hr>
-👩🏻‍💻 Data Analytics | Python <br />
+👩🏻‍💻 Former teacher, now transitioning to Data Analytics | Python <br />
 👩🏻‍🏫 Volunteer mentor at PyLadies Parnaiba <br />
-🤍  Mom | 😺 Cat Lover | 🌎 Travel Enthusiast 
+🤍  Mom | 😺 Cat Lover | 🌎 Travel Enthusiast <br />
+
+<br />
+<div>
+  <a href="https://github.com/graziellamorais">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graziellamorais&layout=compact&langs_count=7&theme=omni"/>
+</div>
