@@ -1,7 +1,7 @@
 ### Hi, I'm Graziella 👋
 <hr>
 👩🏻‍💻 Former teacher, now transitioning to Data Analytics <br />
-👩🏻‍🏫 Volunteer mentor at PyLadies Parnaiba <br />
+👩🏻‍🏫 Volunteer at PyLadies Parnaiba <br />
 🤍  Mom | 😺 Cat Lover | 🌎 Travel Enthusiast <br />
 
 <br />
