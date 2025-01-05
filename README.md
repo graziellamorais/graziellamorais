@@ -2,7 +2,6 @@
 <hr>
 👩🏻‍💻 Former teacher, now transitioning to Data Analytics <br />
 👩🏻‍🏫 Volunteer at PyLadies Parnaiba <br />
-🤍  Mom | 😺 Cat Lover | 🌎 Travel Enthusiast <br />
 
 <br />
 <div>
