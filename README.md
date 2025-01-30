@@ -1,7 +1,7 @@
 ### Hi, I'm Graziella 👋
 <hr>
 👩🏻‍💻 Former teacher, now transitioning to Web Development and UI Design <br />
-👩🏻‍🏫 Volunteer at PyLadies Parnaiba <br />
+💜 Volunteer Coordinator at PyLadies Parnaiba <br />
 
 <br />
 <div>
